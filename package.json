@@ -1,0 +1,13 @@
+{
+  "name": "node-fast-slow-app",
+  "version": "1.0.0",
+  "description": "Node.js app for fast, slow and intermittent error responses",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
